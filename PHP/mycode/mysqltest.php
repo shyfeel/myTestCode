@@ -1,8 +1,8 @@
 <?php
 define ('HOSTNAME', 'localhost'); //数据库主机名
 define ('USERNAME', 'root'); //数据库用户名
-define ('PASSWORD', 'raspicn.com'); //数据库用户登录密码
-define ('DATABASE_NAME', 'typecho'); //需要查询的数据库
+define ('PASSWORD', '123456'); //数据库用户登录密码
+define ('DATABASE_NAME', 'my_db'); //需要查询的数据库
 $db = mysql_connect(HOSTNAME, USERNAME, PASSWORD) or
          die (mysql_error());
 //连接不上，就会显示mysql出错的原因。

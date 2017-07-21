@@ -39,7 +39,7 @@ var Game = (function(_super){
         this.updateScoreUI();
         this.hammer.visible = true;
         this.hammer.start();
-        Laya.timer.loop(1000,this,this.isShow);
+        Laya.timer.loop(5000,this,this.isShow);
     }
     _proto.gameOver = function(){
         Laya.timer.clear(this,this.isShow);

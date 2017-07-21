@@ -1,0 +1,2 @@
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\app.js
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\app.js.map

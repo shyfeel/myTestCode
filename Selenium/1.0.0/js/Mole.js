@@ -37,7 +37,7 @@ var Mole = (function(){
     //停留
     _proto.showColpe = function(){
         if(this.isShow && !this.isHit){
-            Laya.timer.once(2000,this,this.hide);
+            Laya.timer.once(5000,this,this.hide);
         }
     }
     //消失

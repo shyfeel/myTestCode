@@ -1,0 +1,6 @@
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\bin\tscdemo.dll.config
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\bin\tscdemo.dll
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\bin\tscdemo.pdb
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\obj\Release\tscdemo.dll
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\obj\Release\tscdemo.pdb
+D:\github\myTestCode\typescript\tsdemo\tscdemo\tscdemo\obj\Release\tscdemo.csprojResolveAssemblyReference.cache
